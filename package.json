@@ -1,0 +1,19 @@
+{
+  "name": "read-csv-with-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Pedro15/read-csv-with-stream.git"
+  },
+  "author": "João Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao-Pedro15/read-csv-with-stream/issues"
+  },
+  "homepage": "https://github.com/Joao-Pedro15/read-csv-with-stream#readme"
+}
